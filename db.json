@@ -1,0 +1,31 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "The Flatiron Adventure",
+      "poster": "https://placekitten.com/300/400",
+      "description": "An epic journey through code!",
+      "showtime": "3:00 PM",
+      "capacity": 100,
+      "tickets_sold": 50
+    },
+    {
+      "id": 2,
+      "title": "JS Legends",
+      "poster": "https://placekitten.com/300/401",
+      "description": "JavaScript heroes save the day!",
+      "showtime": "6:00 PM",
+      "capacity": 80,
+      "tickets_sold": 75
+    },
+    {
+      "id": 3,
+      "title": "The DOM Strikes Back",
+      "poster": "https://placekitten.com/300/402",
+      "description": "A thrilling battle with the Document Object Model!",
+      "showtime": "9:00 PM",
+      "capacity": 120,
+      "tickets_sold": 20
+    }
+  ]
+}

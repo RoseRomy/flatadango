@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f5f5f5;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+#movie-list {
+    float: left;
+    width: 30%;
+}
+
+#movie-details {
+    float: right;
+    width: 65%;
+}
+
+img {
+    max-width: 300px;
+    display: block;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:disabled {
+    background-color: #95a5a6;
+    cursor: not-allowed;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin: 5px 0;
+}
